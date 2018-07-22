@@ -1,3 +1,3 @@
 # AndriodSituation
-事件
+click事件
 改变屏幕显示方向
