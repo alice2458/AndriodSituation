@@ -1,9 +1,4 @@
 <resources>
     <string name="app_name">Situation</string>
-    <string name="add">+</string>
-    <string name="sub">-</string>
-    <string name="mul">×</string>
-    <string name="div">÷</string>
-    <string name="erqual">=</string>
-    <string name="etnum1">0</string>
+    <string name="mess1">改变当前竖屏为横屏显示</string>
 </resources>
