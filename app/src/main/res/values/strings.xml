@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">Situation</string>
-    <string name="click">click事件</string>
-    <string name="lg">LargeTeam</string>
-    <string name="find">查找</string>
-    <string name="info">要一直走到世界尽头</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">×</string>
+    <string name="div">÷</string>
+    <string name="erqual">=</string>
+    <string name="etnum1">0</string>
 </resources>
